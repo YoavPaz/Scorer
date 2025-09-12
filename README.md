@@ -9,5 +9,6 @@ https://youtube.com/shorts/dCj3x6xbybo?si=xT-ZNKM_PR5S16sc
 drawio design documentation:
 https://drive.google.com/file/d/1Qedhn0nzj9m_Ij-ZshZjcrQMRGDJKRB0/view?usp=sharing
 
-easyeda PCB shield design:
+easyeda RPI shield PCB design:
 https://oshwlab.com/gal.arbel8/rpi-expander
+
