@@ -7,7 +7,7 @@ Kicker mechanism:
 https://youtube.com/shorts/dCj3x6xbybo?si=xT-ZNKM_PR5S16sc
 
 drawio design documentation:
-https://app.diagrams.net/?src=about#G1Qedhn0nzj9m_Ij-ZshZjcrQMRGDJKRB0#%7B%22pageId%22%3A%22JfqMtOTmiOhWywdS7vEh%22%7D
+https://drive.google.com/file/d/1Qedhn0nzj9m_Ij-ZshZjcrQMRGDJKRB0/view?usp=sharing
 
 easyeda PCB shield design:
 https://oshwlab.com/gal.arbel8/rpi-expander
